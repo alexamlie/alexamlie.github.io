@@ -181,6 +181,7 @@ a:active {
     margin-left: auto;
     margin-right: 15px;
     max-width: 100%; 
+    max-width: 400px;
     display: block;
 }
 
