@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-Outside of science, I am also an avid musician. My main instrument is electric bass but I am also an oboist, guitarist, drummer, pianist, and mediocre mandolinist. 
+Outside of science, I am also an avid musician. My main instrument is electric bass but I am also an oboist, guitarist, vocalist, drummer, pianist, and mediocre mandolinist. 
 Here are some of my projects:
 
 # [Neuroglyph](https://neuroglyph.bandcamp.com)
