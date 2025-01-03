@@ -1,0 +1,31 @@
+---
+layout: archive
+title: ""
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+<header>
+  <h1> Talks </h1>
+</header>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<header>
+  <h2>Posters</h2>
+</header>
+
+This list includes all my first or co-first author poster presentations. 
+
+{% for post in site.posters reversed %}
+  {% include archive-single-poster.html %}
+{% endfor %}
+
