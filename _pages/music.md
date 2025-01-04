@@ -24,7 +24,7 @@ My first recording with them is the EP "Becoming the Angel" that came out in 202
 
 # [Titan Arum](https://titanarum.bandcamp.com)
 
-This was my first "one-man band" solo project, which I renamed due to another conflicting band. I released one album, Endogenous. 
+This was my first "one-man band" solo project, which I renamed due to another conflicting band. I released one album, Endogenous in 2019. 
 
 [![Endogenous](/images/Titan_Arum_Endogenous.jpg)](https://titanarum.bandcamp.com/album/endogenous)
 
