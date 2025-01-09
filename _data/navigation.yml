@@ -17,7 +17,7 @@ main:
   - title: "Software"
     url: https://bitbucket.org/alexamlie    
 
-	# add markdown util scripts for bash on software
+# add markdown util scripts for bash on software
     
   # - title: "Guide"
   #   url: /markdown/
