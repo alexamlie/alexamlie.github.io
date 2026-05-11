@@ -1,0 +1,1143 @@
+    track HMM15_FAT.ADIP.NUC
+    bigDataUrl E063_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel FAT.ADIP.NUC ChromHMM
+    longLabel Adipose Nuclei Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=FAT.ADIP.NUC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.DND41.CNCR
+    bigDataUrl E115_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.DND41.CNCR ChromHMM
+    longLabel Dnd41 TCell Leukemia Cell Line Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.DND41.CNCR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.GM12878
+    bigDataUrl E116_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.GM12878 ChromHMM
+    longLabel GM12878 Lymphoblastoid Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.GM12878
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD3.PPC
+    bigDataUrl E034_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD3.PPC ChromHMM
+    longLabel Primary T cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD3.PPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.CD25I.CD127.TMEMPC
+    bigDataUrl E045_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.CD25I.CD127.TMEMPC ChromHMM
+    longLabel Primary T cells effector/memory enriched from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.CD25I.CD127.TMEMPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD3.CPC
+    bigDataUrl E033_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD3.CPC ChromHMM
+    longLabel Primary T cells from cord blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD3.CPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.CD25.CD127M.TREGPC
+    bigDataUrl E044_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.CD25.CD127M.TREGPC ChromHMM
+    longLabel Primary T regulatory cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.CD25.CD127M.TREGPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.CD25M.TPC
+    bigDataUrl E043_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.CD25M.TPC ChromHMM
+    longLabel Primary T helper cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.CD25M.TPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.CD25M.CD45RA.NPC
+    bigDataUrl E039_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.CD25M.CD45RA.NPC ChromHMM
+    longLabel Primary T helper naive cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.CD25M.CD45RA.NPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.CD25M.IL17M.PL.TPC
+    bigDataUrl E041_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.CD25M.IL17M.PL.TPC ChromHMM
+    longLabel Primary T helper cells PMA-I stimulated Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.CD25M.IL17M.PL.TPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.CD25M.IL17P.PL.TPC
+    bigDataUrl E042_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.CD25M.IL17P.PL.TPC ChromHMM
+    longLabel Primary T helper 17 cells PMA-I stimulated Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.CD25M.IL17P.PL.TPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.CD25M.CD45RO.MPC
+    bigDataUrl E040_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.CD25M.CD45RO.MPC ChromHMM
+    longLabel Primary T helper memory cells from peripheral blood 1 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.CD25M.CD45RO.MPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.MPC
+    bigDataUrl E037_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.MPC ChromHMM
+    longLabel Primary T helper memory cells from peripheral blood 2 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.MPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD8.MPC
+    bigDataUrl E048_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD8.MPC ChromHMM
+    longLabel Primary T CD8+ memory cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD8.MPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD4.NPC
+    bigDataUrl E038_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD4.NPC ChromHMM
+    longLabel Primary T helper naive cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD4.NPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD8.NPC
+    bigDataUrl E047_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD8.NPC ChromHMM
+    longLabel Primary T CD8+ naive cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD8.NPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD19.CPC
+    bigDataUrl E031_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD19.CPC ChromHMM
+    longLabel Primary B cells from cord blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD19.CPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD19.PPC
+    bigDataUrl E032_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD19.PPC ChromHMM
+    longLabel Primary B cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD19.PPC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD56.PC
+    bigDataUrl E046_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD56.PC ChromHMM
+    longLabel Primary Natural Killer cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD56.PC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.K562.CNCR
+    bigDataUrl E123_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.K562.CNCR ChromHMM
+    longLabel K562 Leukemia Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.K562.CNCR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD14.MONO
+    bigDataUrl E124_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD14.MONO ChromHMM
+    longLabel Monocytes-CD14+ RO01746 Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD14.MONO
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD14.PC
+    bigDataUrl E029_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD14.PC ChromHMM
+    longLabel Primary monocytes from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD14.PC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD15.PC
+    bigDataUrl E030_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD15.PC ChromHMM
+    longLabel Primary neutrophils from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD15.PC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.PER.MONUC.PC
+    bigDataUrl E062_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.PER.MONUC.PC ChromHMM
+    longLabel Primary mononuclear cells from peripheral blood Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.PER.MONUC.PC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_VAS.AOR
+    bigDataUrl E065_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel VAS.AOR ChromHMM
+    longLabel Aorta Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=VAS.AOR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.FET.F
+    bigDataUrl E082_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.FET.F ChromHMM
+    longLabel Fetal Brain Female Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.FET.F
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.FET.M
+    bigDataUrl E081_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.FET.M ChromHMM
+    longLabel Fetal Brain Male Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.FET.M
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.HIPP.MID
+    bigDataUrl E071_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.HIPP.MID ChromHMM
+    longLabel Brain Hippocampus Middle Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.HIPP.MID
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.SUB.NIG
+    bigDataUrl E074_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.SUB.NIG ChromHMM
+    longLabel Brain Substantia Nigra Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.SUB.NIG
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.ANT.CAUD
+    bigDataUrl E068_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.ANT.CAUD ChromHMM
+    longLabel Brain Anterior Caudate Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.ANT.CAUD
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.CING.GYR
+    bigDataUrl E069_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.CING.GYR ChromHMM
+    longLabel Brain Cingulate Gyrus Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.CING.GYR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.INF.TMP
+    bigDataUrl E072_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.INF.TMP ChromHMM
+    longLabel Brain Inferior Temporal Lobe Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.INF.TMP
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.ANG.GYR
+    bigDataUrl E067_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.ANG.GYR ChromHMM
+    longLabel Brain Angular Gyrus Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.ANG.GYR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.DL.PRFRNTL.CRTX
+    bigDataUrl E073_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.DL.PRFRNTL.CRTX ChromHMM
+    longLabel Brain_Dorsolateral_Prefrontal_Cortex Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.DL.PRFRNTL.CRTX
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.GRM.MTRX
+    bigDataUrl E070_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.GRM.MTRX ChromHMM
+    longLabel Brain Germinal Matrix Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.GRM.MTRX
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.NHA
+    bigDataUrl E125_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.NHA ChromHMM
+    longLabel NH-A Astrocytes Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.NHA
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BONE.OSTEO
+    bigDataUrl E129_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BONE.OSTEO ChromHMM
+    longLabel Osteoblast Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BONE.OSTEO
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_LNG.IMR90
+    bigDataUrl E017_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel LNG.IMR90 ChromHMM
+    longLabel IMR90 fetal lung fibroblasts Cell Line Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=LNG.IMR90
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_LNG.NHLF
+    bigDataUrl E128_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel LNG.NHLF ChromHMM
+    longLabel NHLF Lung Fibroblast Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=LNG.NHLF
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SKIN.NHDFAD
+    bigDataUrl E126_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SKIN.NHDFAD ChromHMM
+    longLabel NHDF-Ad Adult Dermal Fibroblast Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SKIN.NHDFAD
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SKIN.PEN.FRSK.FIB.01
+    bigDataUrl E055_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SKIN.PEN.FRSK.FIB.01 ChromHMM
+    longLabel Foreskin Fibroblast Primary Cells skin01 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SKIN.PEN.FRSK.FIB.01
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SKIN.PEN.FRSK.FIB.02
+    bigDataUrl E056_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SKIN.PEN.FRSK.FIB.02 ChromHMM
+    longLabel Foreskin Fibroblast Primary Cells skin02 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SKIN.PEN.FRSK.FIB.02
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.ESO
+    bigDataUrl E079_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.ESO ChromHMM
+    longLabel Esophagus Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.ESO
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.L.INT.FET
+    bigDataUrl E084_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.L.INT.FET ChromHMM
+    longLabel Fetal Intestine Large Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.L.INT.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.CLN.SIG
+    bigDataUrl E106_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.CLN.SIG ChromHMM
+    longLabel Sigmoid Colon Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.CLN.SIG
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.CLN.MUC
+    bigDataUrl E075_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.CLN.MUC ChromHMM
+    longLabel Colonic Mucosa Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.CLN.MUC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.RECT.MUC.29
+    bigDataUrl E101_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.RECT.MUC.29 ChromHMM
+    longLabel Rectal Mucosa Donor 29 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.RECT.MUC.29
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.RECT.MUC.31
+    bigDataUrl E102_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.RECT.MUC.31 ChromHMM
+    longLabel Rectal Mucosa Donor 31 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.RECT.MUC.31
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_PANC.ISLT
+    bigDataUrl E087_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel PANC.ISLT ChromHMM
+    longLabel Pancreatic Islets Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=PANC.ISLT
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_PANC
+    bigDataUrl E098_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel PANC ChromHMM
+    longLabel Pancreas Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=PANC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.S.INT.FET
+    bigDataUrl E085_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.S.INT.FET ChromHMM
+    longLabel Fetal Intestine Small Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.S.INT.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.S.INT
+    bigDataUrl E109_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.S.INT ChromHMM
+    longLabel Small Intestine Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.S.INT
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.DUO.MUC
+    bigDataUrl E077_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.DUO.MUC ChromHMM
+    longLabel Duodenum Mucosa Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.DUO.MUC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.STMC.FET
+    bigDataUrl E092_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.STMC.FET ChromHMM
+    longLabel Fetal Stomach Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.STMC.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.STMC.MUC
+    bigDataUrl E110_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.STMC.MUC ChromHMM
+    longLabel Stomach Mucosa Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.STMC.MUC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.STMC.GAST
+    bigDataUrl E094_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.STMC.GAST ChromHMM
+    longLabel Gastric Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.STMC.GAST
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.CD56.MESO
+    bigDataUrl E013_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.CD56.MESO ChromHMM
+    longLabel hESC Derived CD56+ Mesoderm Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.CD56.MESO
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.CD56.ECTO
+    bigDataUrl E012_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.CD56.ECTO ChromHMM
+    longLabel hESC Derived CD56+ Ectoderm Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.CD56.ECTO
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.CD184.ENDO
+    bigDataUrl E011_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.CD184.ENDO ChromHMM
+    longLabel hESC Derived CD184+ Endoderm Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.CD184.ENDO
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.H1.BMP4.MESO
+    bigDataUrl E004_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.H1.BMP4.MESO ChromHMM
+    longLabel H1 BMP4 Derived Mesendoderm Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.H1.BMP4.MESO
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.H1.BMP4.TROP
+    bigDataUrl E005_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.H1.BMP4.TROP ChromHMM
+    longLabel H1 BMP4 Derived Trophoblast Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.H1.BMP4.TROP
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ADRL.GLND.FET
+    bigDataUrl E080_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ADRL.GLND.FET ChromHMM
+    longLabel Fetal Adrenal Gland Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ADRL.GLND.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRST.HMEC
+    bigDataUrl E119_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRST.HMEC ChromHMM
+    longLabel HMEC Mammary Epithelial Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRST.HMEC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRST.HMEC.35
+    bigDataUrl E028_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRST.HMEC.35 ChromHMM
+    longLabel Breast variant Human Mammary Epithelial Cells (vHMEC) Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRST.HMEC.35
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRST.MYO
+    bigDataUrl E027_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRST.MYO ChromHMM
+    longLabel Breast Myoepithelial Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRST.MYO
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SKIN.NHEK
+    bigDataUrl E127_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SKIN.NHEK ChromHMM
+    longLabel NHEK-Epidermal Keratinocyte Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SKIN.NHEK
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SKIN.PEN.FRSK.MEL.01
+    bigDataUrl E059_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SKIN.PEN.FRSK.MEL.01 ChromHMM
+    longLabel Foreskin Melanocyte Primary Cells skin01 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SKIN.PEN.FRSK.MEL.01
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SKIN.PEN.FRSK.MEL.03
+    bigDataUrl E061_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SKIN.PEN.FRSK.MEL.03 ChromHMM
+    longLabel Foreskin Melanocyte Primary Cells skin03 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SKIN.PEN.FRSK.MEL.03
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SKIN.PEN.FRSK.KER.02
+    bigDataUrl E057_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SKIN.PEN.FRSK.KER.02 ChromHMM
+    longLabel Foreskin Keratinocyte Primary Cells skin02 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SKIN.PEN.FRSK.KER.02
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SKIN.PEN.FRSK.KER.03
+    bigDataUrl E058_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SKIN.PEN.FRSK.KER.03 ChromHMM
+    longLabel Foreskin Keratinocyte Primary Cells skin03 Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SKIN.PEN.FRSK.KER.03
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_VAS.HUVEC
+    bigDataUrl E122_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel VAS.HUVEC ChromHMM
+    longLabel HUVEC Umbilical Vein Endothelial Primary Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=VAS.HUVEC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESC.WA7
+    bigDataUrl E002_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESC.WA7 ChromHMM
+    longLabel ES-WA7 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESC.WA7
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESC.H9
+    bigDataUrl E008_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESC.H9 ChromHMM
+    longLabel H9 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESC.H9
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESC.I3
+    bigDataUrl E001_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESC.I3 ChromHMM
+    longLabel ES-I3 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESC.I3
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESC.HUES6
+    bigDataUrl E015_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESC.HUES6 ChromHMM
+    longLabel HUES6 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESC.HUES6
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESC.HUES48
+    bigDataUrl E014_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESC.HUES48 ChromHMM
+    longLabel HUES48 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESC.HUES48
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESC.HUES64
+    bigDataUrl E016_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESC.HUES64 ChromHMM
+    longLabel HUES64 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESC.HUES64
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESC.H1
+    bigDataUrl E003_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESC.H1 ChromHMM
+    longLabel H1 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESC.H1
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESC.4STAR
+    bigDataUrl E024_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESC.4STAR ChromHMM
+    longLabel ES-UCSF4 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESC.4STAR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_OVRY
+    bigDataUrl E097_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel OVRY ChromHMM
+    longLabel Ovary Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=OVRY
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_CRVX.HELAS3.CNCR
+    bigDataUrl E117_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel CRVX.HELAS3.CNCR ChromHMM
+    longLabel HeLa-S3 Cervical Carcinoma Cell Line Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=CRVX.HELAS3.CNCR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_HRT.FET
+    bigDataUrl E083_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel HRT.FET ChromHMM
+    longLabel Fetal Heart Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=HRT.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_HRT.ATR.R
+    bigDataUrl E104_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel HRT.ATR.R ChromHMM
+    longLabel Right Atrium Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=HRT.ATR.R
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_HRT.VENT.L
+    bigDataUrl E095_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel HRT.VENT.L ChromHMM
+    longLabel Left Ventricle Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=HRT.VENT.L
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_HRT.VNT.R
+    bigDataUrl E105_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel HRT.VNT.R ChromHMM
+    longLabel Right Ventricle Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=HRT.VNT.R
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_SPLN
+    bigDataUrl E113_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel SPLN ChromHMM
+    longLabel Spleen Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=SPLN
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_THYM.FET
+    bigDataUrl E093_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel THYM.FET ChromHMM
+    longLabel Fetal Thymus Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=THYM.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_THYM
+    bigDataUrl E112_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel THYM ChromHMM
+    longLabel Thymus Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=THYM
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_IPSC.20B
+    bigDataUrl E020_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel IPSC.20B ChromHMM
+    longLabel iPS-20b Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=IPSC.20B
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_IPSC.18
+    bigDataUrl E019_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel IPSC.18 ChromHMM
+    longLabel iPS-18 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=IPSC.18
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_IPSC.15b
+    bigDataUrl E018_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel IPSC.15b ChromHMM
+    longLabel iPS-15b Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=IPSC.15b
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_IPSC.DF.6.9
+    bigDataUrl E021_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel IPSC.DF.6.9 ChromHMM
+    longLabel iPS DF 6.9 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=IPSC.DF.6.9
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_IPSC.DF.19.11
+    bigDataUrl E022_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel IPSC.DF.19.11 ChromHMM
+    longLabel iPS DF 19.11 Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=IPSC.DF.19.11
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_LIV.HEPG2.CNCR
+    bigDataUrl E118_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel LIV.HEPG2.CNCR ChromHMM
+    longLabel HepG2 Hepatocellular Carcinoma Cell Line Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=LIV.HEPG2.CNCR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_LIV.ADLT
+    bigDataUrl E066_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel LIV.ADLT ChromHMM
+    longLabel Liver Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=LIV.ADLT
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_LNG.A549.ETOH002.CNCR
+    bigDataUrl E114_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel LNG.A549.ETOH002.CNCR ChromHMM
+    longLabel A549 EtOH 0.02pct Lung Carcinoma Cell Line Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=LNG.A549.ETOH002.CNCR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_LNG.FET
+    bigDataUrl E088_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel LNG.FET ChromHMM
+    longLabel Fetal Lung Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=LNG.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_LNG
+    bigDataUrl E096_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel LNG ChromHMM
+    longLabel Lung Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=LNG
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.H9.NEUR
+    bigDataUrl E010_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.H9.NEUR ChromHMM
+    longLabel H9 Derived Neuron Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.H9.NEUR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_PLCNT.AMN
+    bigDataUrl E099_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel PLCNT.AMN ChromHMM
+    longLabel Placenta Amnion Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=PLCNT.AMN
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_PLCNT.FET
+    bigDataUrl E091_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel PLCNT.FET ChromHMM
+    longLabel Placenta Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=PLCNT.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_MUS.TRNK.FET
+    bigDataUrl E089_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel MUS.TRNK.FET ChromHMM
+    longLabel Fetal Muscle Trunk Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=MUS.TRNK.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_MUS.LEG.FET
+    bigDataUrl E090_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel MUS.LEG.FET ChromHMM
+    longLabel Fetal Muscle Leg Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=MUS.LEG.FET
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_MUS.HSMM
+    bigDataUrl E120_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel MUS.HSMM ChromHMM
+    longLabel HSMM Skeletal Muscle Myoblasts Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=MUS.HSMM
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_MUS.HSMMT
+    bigDataUrl E121_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel MUS.HSMMT ChromHMM
+    longLabel HSMM cell derived Skeletal Muscle Myotubes Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=MUS.HSMMT
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_MUS.PSOAS
+    bigDataUrl E100_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel MUS.PSOAS ChromHMM
+    longLabel Psoas Muscle Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=MUS.PSOAS
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_MUS.SKLT.F
+    bigDataUrl E108_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel MUS.SKLT.F ChromHMM
+    longLabel Skeletal Muscle Female Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=MUS.SKLT.F
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_MUS.SKLT.M
+    bigDataUrl E107_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel MUS.SKLT.M ChromHMM
+    longLabel Skeletal Muscle Male Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=MUS.SKLT.M
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_MUS.SAT
+    bigDataUrl E052_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel MUS.SAT ChromHMM
+    longLabel Muscle Satellite Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=MUS.SAT
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.DUO.SM.MUS
+    bigDataUrl E078_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.DUO.SM.MUS ChromHMM
+    longLabel Duodenum Smooth Muscle Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.DUO.SM.MUS
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.CLN.SM.MUS
+    bigDataUrl E076_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.CLN.SM.MUS ChromHMM
+    longLabel Colon Smooth Muscle Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.CLN.SM.MUS
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.RECT.SM.MUS
+    bigDataUrl E103_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.RECT.SM.MUS ChromHMM
+    longLabel Rectal Smooth Muscle Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.RECT.SM.MUS
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_GI.STMC.MUS
+    bigDataUrl E111_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel GI.STMC.MUS ChromHMM
+    longLabel Stomach Smooth Muscle Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=GI.STMC.MUS
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD34.PC
+    bigDataUrl E035_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD34.PC ChromHMM
+    longLabel Primary hematopoietic Stem Cell Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD34.PC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.MOB.CD34.PC.M
+    bigDataUrl E051_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.MOB.CD34.PC.M ChromHMM
+    longLabel Primary hematopoietic Stem Cell G-CSF-mobilized Male Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.MOB.CD34.PC.M
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.MOB.CD34.PC.F
+    bigDataUrl E050_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.MOB.CD34.PC.F ChromHMM
+    longLabel Primary hematopoietic Stem Cell G-CSF-mobilized Female Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.MOB.CD34.PC.F
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BLD.CD34.CC
+    bigDataUrl E036_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BLD.CD34.CC ChromHMM
+    longLabel Primary hematopoietic Stem Cell short term culture Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BLD.CD34.CC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.H1.MSC
+    bigDataUrl E006_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.H1.MSC ChromHMM
+    longLabel H1 Derived Mesenchymal Stem Cell Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.H1.MSC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_STRM.MRW.MSC
+    bigDataUrl E026_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel STRM.MRW.MSC ChromHMM
+    longLabel Bone Marrow Derived Cultured Mesenchymal Stem Cell Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=STRM.MRW.MSC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_STRM.CHON.MRW.DR.MSC
+    bigDataUrl E049_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel STRM.CHON.MRW.DR.MSC ChromHMM
+    longLabel Mesenchymal Stem Cell Derived Chondrocyte Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=STRM.CHON.MRW.DR.MSC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_FAT.ADIP.DR.MSC
+    bigDataUrl E025_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel FAT.ADIP.DR.MSC ChromHMM
+    longLabel Adipose Derived Mesenchymal Stem Cell Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=FAT.ADIP.DR.MSC
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_FAT.MSC.DR.ADIP
+    bigDataUrl E023_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel FAT.MSC.DR.ADIP ChromHMM
+    longLabel Mesenchymal Stem Cell Derived Adipocyte Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=FAT.MSC.DR.ADIP
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.H1.NEUR.PROG
+    bigDataUrl E007_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.H1.NEUR.PROG ChromHMM
+    longLabel H1 Derived Neuronal Progenitor Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.H1.NEUR.PROG
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_ESDR.H9.NEUR.PROG
+    bigDataUrl E009_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel ESDR.H9.NEUR.PROG ChromHMM
+    longLabel H9 Derived Neuronal Progenitor Cultured Cells Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=ESDR.H9.NEUR.PROG
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.GANGEM.DR.NRSPHR
+    bigDataUrl E054_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.GANGEM.DR.NRSPHR ChromHMM
+    longLabel Ganglion Eminence derived primary cultured neurospheres Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.GANGEM.DR.NRSPHR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_BRN.CRTX.DR.NRSPHR
+    bigDataUrl E053_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel BRN.CRTX.DR.NRSPHR ChromHMM
+    longLabel Cortex derived primary cultured neurospheres Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=BRN.CRTX.DR.NRSPHR
+    type bigBed 9
+    itemRgb On
+
+    track HMM15_KID.FET
+    bigDataUrl E086_15_coreMarks_dense.bb
+    parent RoadmapHMM15 off
+    shortLabel KID.FET ChromHMM
+    longLabel Fetal Kidney Chromatin State Segmentation by HMM from Roadmap
+    subGroups cellType=KID.FET
+    type bigBed 9
+    itemRgb On
+

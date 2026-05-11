@@ -12,12 +12,20 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  background-color: #1a2744;
+  color: #c8d6e8;
+
+  .social-icons i {
+    color: inherit;
+  }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
     padding-top: $masthead-height;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
   }
 
   @include breakpoint($large) {
@@ -95,7 +103,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 1px solid rgba(255, 255, 255, 0.2);
     }
   }
 }
@@ -188,9 +196,9 @@
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
-  border: 1px solid $border-color;
+  border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: $border-radius;
-  background: #fff;
+  background: #243154;
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
@@ -231,7 +239,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: #fff transparent;
+    border-color: #243154 transparent;
     z-index: 1;
 
     @include breakpoint($large) {

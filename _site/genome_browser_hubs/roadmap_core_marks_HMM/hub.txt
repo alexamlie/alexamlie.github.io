@@ -1,0 +1,5 @@
+hub Roadmap_core_marks_15_state
+shortLabel Roadmap_chromHMM
+longLabel Roadmap 15 state core marks ChromHMM
+genomesFile genomes.txt
+email alexaml@mail.med.upenn.edu

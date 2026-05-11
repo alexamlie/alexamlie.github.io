@@ -1,0 +1,128 @@
+Class	Standardized Epigenome name	Epigenome ID (EID)
+Adipose	Adipose Nuclei	E063
+Blood	Dnd41 TCell Leukemia Cell Line	E115
+Blood	GM12878 Lymphoblastoid Cells	E116
+Blood	Primary T cells from peripheral blood	E034
+Blood	Primary T cells effector/memory enriched from peripheral blood	E045
+Blood	Primary T cells from cord blood	E033
+Blood	Primary T regulatory cells from peripheral blood	E044
+Blood	Primary T helper cells from peripheral blood	E043
+Blood	Primary T helper naive cells from peripheral blood	E039
+Blood	Primary T helper cells PMA-I stimulated	E041
+Blood	Primary T helper 17 cells PMA-I stimulated	E042
+Blood	Primary T helper memory cells from peripheral blood 1	E040
+Blood	Primary T helper memory cells from peripheral blood 2	E037
+Blood	Primary T CD8+ memory cells from peripheral blood	E048
+Blood	Primary T helper naive cells from peripheral blood	E038
+Blood	Primary T CD8+ naive cells from peripheral blood	E047
+Blood	Primary B cells from cord blood	E031
+Blood	Primary B cells from peripheral blood	E032
+Blood	Primary Natural Killer cells from peripheral blood	E046
+Blood	K562 Leukemia Cells	E123
+Blood	Monocytes-CD14+ RO01746 Primary Cells	E124
+Blood	Primary monocytes from peripheral blood	E029
+Blood	Primary neutrophils from peripheral blood	E030
+Blood	Primary mononuclear cells from peripheral blood	E062
+Blood Vessel	Aorta	E065
+Brain	Fetal Brain Female	E082
+Brain	Fetal Brain Male	E081
+Brain	Brain Hippocampus Middle	E071
+Brain	Brain Substantia Nigra	E074
+Brain	Brain Anterior Caudate	E068
+Brain	Brain Cingulate Gyrus	E069
+Brain	Brain Inferior Temporal Lobe	E072
+Brain	Brain Angular Gyrus	E067
+Brain	Brain_Dorsolateral_Prefrontal_Cortex	E073
+Brain	Brain Germinal Matrix	E070
+Brain	NH-A Astrocytes Primary Cells	E125
+Connective Tissue	Osteoblast Primary Cells	E129
+Connective Tissue	IMR90 fetal lung fibroblasts Cell Line	E017
+Connective Tissue	NHLF Lung Fibroblast Primary Cells	E128
+Connective Tissue	NHDF-Ad Adult Dermal Fibroblast Primary Cells	E126
+Connective Tissue	Foreskin Fibroblast Primary Cells skin01	E055
+Connective Tissue	Foreskin Fibroblast Primary Cells skin02	E056
+Digestive	Esophagus	E079
+Digestive	Fetal Intestine Large	E084
+Digestive	Sigmoid Colon	E106
+Digestive	Colonic Mucosa	E075
+Digestive	Rectal Mucosa Donor 29	E101
+Digestive	Rectal Mucosa Donor 31	E102
+Digestive	Pancreatic Islets	E087
+Digestive	Pancreas	E098
+Digestive	Fetal Intestine Small	E085
+Digestive	Small Intestine	E109
+Digestive	Duodenum Mucosa	E077
+Digestive	Fetal Stomach	E092
+Digestive	Stomach Mucosa	E110
+Digestive	Gastric	E094
+Embryo	hESC Derived CD56+ Mesoderm Cultured Cells	E013
+Embryo	hESC Derived CD56+ Ectoderm Cultured Cells	E012
+Embryo	hESC Derived CD184+ Endoderm Cultured Cells	E011
+Embryo	H1 BMP4 Derived Mesendoderm Cultured Cells	E004
+Embryo	H1 BMP4 Derived Trophoblast Cultured Cells	E005
+Endocrine	Fetal Adrenal Gland	E080
+Epithelial	HMEC Mammary Epithelial Primary Cells	E119
+Epithelial	Breast variant Human Mammary Epithelial Cells (vHMEC)	E028
+Epithelial	Breast Myoepithelial Primary Cells	E027
+Epithelial	NHEK-Epidermal Keratinocyte Primary Cells	E127
+Epithelial	Foreskin Melanocyte Primary Cells skin01	E059
+Epithelial	Foreskin Melanocyte Primary Cells skin03	E061
+Epithelial	Foreskin Keratinocyte Primary Cells skin02	E057
+Epithelial	Foreskin Keratinocyte Primary Cells skin03	E058
+Epithelial	HUVEC Umbilical Vein Endothelial Primary Cells	E122
+ESC	ES-WA7 Cells	E002
+ESC	H9 Cells	E008
+ESC	ES-I3 Cells	E001
+ESC	HUES6 Cells	E015
+ESC	HUES48 Cells	E014
+ESC	HUES64 Cells	E016
+ESC	H1 Cells	E003
+ESC	ES-UCSF4 Cells	E024
+Female Reproductive	Ovary	E097
+Female Reproductive	HeLa-S3 Cervical Carcinoma Cell Line	E117
+Heart	Fetal Heart	E083
+Heart	Right Atrium	E104
+Heart	Left Ventricle	E095
+Heart	Right Ventricle	E105
+Immune Organ	Spleen	E113
+Immune Organ	Fetal Thymus	E093
+Immune Organ	Thymus	E112
+iPSC	iPS-20b Cells	E020
+iPSC	iPS-18 Cells	E019
+iPSC	iPS-15b Cells	E018
+iPSC	iPS DF 6.9 Cells	E021
+iPSC	iPS DF 19.11 Cells	E022
+Liver	HepG2 Hepatocellular Carcinoma Cell Line	E118
+Liver	Liver	E066
+Lung	A549 EtOH 0.02pct Lung Carcinoma Cell Line	E114
+Lung	Fetal Lung	E088
+Lung	Lung	E096
+Nervous	H9 Derived Neuron Cultured Cells	E010
+Placenta	Placenta Amnion	E099
+Placenta	Placenta	E091
+Skeletal Muscle	Fetal Muscle Trunk	E089
+Skeletal Muscle	Fetal Muscle Leg	E090
+Skeletal Muscle	HSMM Skeletal Muscle Myoblasts Cells	E120
+Skeletal Muscle	HSMM cell derived Skeletal Muscle Myotubes Cells	E121
+Skeletal Muscle	Psoas Muscle	E100
+Skeletal Muscle	Skeletal Muscle Female	E108
+Skeletal Muscle	Skeletal Muscle Male	E107
+Skeletal Muscle	Muscle Satellite Cultured Cells	E052
+Smooth Muscle	Duodenum Smooth Muscle	E078
+Smooth Muscle	Colon Smooth Muscle	E076
+Smooth Muscle	Rectal Smooth Muscle	E103
+Smooth Muscle	Stomach Smooth Muscle	E111
+Stem Cell	Primary hematopoietic Stem Cell	E035
+Stem Cell	Primary hematopoietic Stem Cell G-CSF-mobilized Male	E051
+Stem Cell	Primary hematopoietic Stem Cell G-CSF-mobilized Female	E050
+Stem Cell	Primary hematopoietic Stem Cell short term culture	E036
+Stem Cell	H1 Derived Mesenchymal Stem Cell	E006
+Stem Cell	Bone Marrow Derived Cultured Mesenchymal Stem Cell	E026
+Stem Cell	Mesenchymal Stem Cell Derived Chondrocyte Cultured Cells	E049
+Stem Cell	Adipose Derived Mesenchymal Stem Cell Cultured Cells	E025
+Stem Cell	Mesenchymal Stem Cell Derived Adipocyte Cultured Cells	E023
+Stem Cell	H1 Derived Neuronal Progenitor Cultured Cells	E007
+Stem Cell	H9 Derived Neuronal Progenitor Cultured Cells	E009
+Stem Cell	Ganglion Eminence derived primary cultured neurospheres	E054
+Stem Cell	Cortex derived primary cultured neurospheres	E053
+Urinary	Fetal Kidney	E086
