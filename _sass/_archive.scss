@@ -74,7 +74,18 @@
   }
 }
 
+.archive__item {
+  padding: 0.75em 1em;
+  margin-bottom: 0.5em;
+  background: rgba(255, 255, 255, 0.035);
+  border-left: 2px solid rgba(126, 184, 212, 0.4);
+  border-radius: 0 $border-radius $border-radius 0;
+}
+
 .archive__item:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-left-color: #7eb8d4;
+
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
