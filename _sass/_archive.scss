@@ -77,9 +77,10 @@
 .archive__item {
   padding: 0.75em 1em;
   margin-bottom: 0.5em;
-  background: rgba(255, 255, 255, 0.035);
-  border-left: 2px solid rgba(126, 184, 212, 0.4);
+  background: transparent;
+  border-left: 2px solid transparent;
   border-radius: 0 $border-radius $border-radius 0;
+  transition: background 0.2s ease, border-left-color 0.2s ease;
 }
 
 .archive__item:hover {
@@ -92,6 +93,38 @@
 
   .archive__item-title {
     text-decoration: underline;
+  }
+}
+
+
+/*
+   Numbered publication list
+   ========================================================================== */
+
+.publication-list {
+  counter-reset: pub-counter;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .archive__item {
+    counter-increment: pub-counter;
+    padding-left: 2.75em;
+    position: relative;
+
+    &::before {
+      content: counter(pub-counter) ".";
+      position: absolute;
+      left: 0.75em;
+      top: 0.8em;
+      color: #7eb8d4;
+      font-weight: 600;
+      font-size: $type-size-5;
+      min-width: 1.5em;
+    }
   }
 }
 
