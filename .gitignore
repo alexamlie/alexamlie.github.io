@@ -60,3 +60,5 @@ old/index.html
 .sass-cache/
 Gemfile.lock.bak
 files/.DS_Store
+_site/genome_browser_hubs/
+_site/old/

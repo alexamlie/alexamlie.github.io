@@ -1,5 +1,0 @@
-hub mll_topo2_080416
-shortLabel mll_topo2
-longLabel mll_topo2
-genomesFile genomes.txt
-email alexaml@mail.med.upenn.edu
