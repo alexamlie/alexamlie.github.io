@@ -57,3 +57,6 @@ genome_browser_hubs/topo2_080416/hg19/VP16_ratio_inhibitor_median_signal.bw
 genome_browser_hubs/topo2_080416/hg19/VP16_ratio_poison_mean_signal.bw
 genome_browser_hubs/topo2_080416/hg19/VP16_ratio_poison_median_signal.bw
 old/index.html
+.sass-cache/
+Gemfile.lock.bak
+files/.DS_Store
